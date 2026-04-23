@@ -39,10 +39,6 @@
 			]
 		},
 		{
-			"Name": "Fab",
-			"Enabled": false
-		},
-		{
 			"Name": "MeshPainting",
 			"Enabled": false
 		},
@@ -71,6 +67,10 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
 		}
 	]
 }
