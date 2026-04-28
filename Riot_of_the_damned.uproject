@@ -71,6 +71,10 @@
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
+		},
+		{
+			"Name": "DaySequence",
+			"Enabled": true
 		}
 	]
 }
